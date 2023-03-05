@@ -4,7 +4,7 @@ import { ChartStoreService } from '../services/chart-store.service';
 
 
 @Component({
-  selector: 'mu-chart-chart',
+  selector: 'mu-chart',
   templateUrl: './chart.component.html',
   styleUrls: ['./chart.component.css'],
   providers: [ChartStoreService]
